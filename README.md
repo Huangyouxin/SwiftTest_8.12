@@ -10,5 +10,7 @@
 3、远端在网络上可随意添加说明文档、修改远端仓库名、删除远端仓库等
 4、新增的远端仓库，网购会自动生成终端指令指导在终端操作操作
 5、sync ，pull ， push 关系
+
+
 具体详见: 1、http://blog.csdn.net/duxinfeng2010/article/details/8654690
          2、http://blog.csdn.net/duxinfeng2010/article/details/8902529
