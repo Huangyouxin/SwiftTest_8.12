@@ -1,0 +1,2 @@
+1、系统服务类：线程（NSThread、NSOperation、GCD）
+2、耗时操作应放在工作线程中，避免阻塞主线程
